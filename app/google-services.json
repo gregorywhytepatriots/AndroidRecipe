@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "985713228604",
+    "firebase_url": "https://android-recipe-app-57d81.firebaseio.com",
+    "project_id": "android-recipe-app-57d81",
+    "storage_bucket": "android-recipe-app-57d81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985713228604:android:135fad5ce91281382fbc39",
+        "android_client_info": {
+          "package_name": "com.android.recipeApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985713228604-jd0k58s43v3k52ejo2lor7gisfvlft22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBddNKYYGJRjl0x2jdEksz0JnKKCleLWIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985713228604-jd0k58s43v3k52ejo2lor7gisfvlft22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985713228604:android:f07af95dde4f37162fbc39",
+        "android_client_info": {
+          "package_name": "com.teamAwesome.recipeApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985713228604-jd0k58s43v3k52ejo2lor7gisfvlft22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBddNKYYGJRjl0x2jdEksz0JnKKCleLWIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985713228604-jd0k58s43v3k52ejo2lor7gisfvlft22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
